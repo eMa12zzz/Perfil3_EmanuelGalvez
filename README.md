@@ -10,11 +10,6 @@ Instituto Técnico Ricaldone - Tercer año de Desarrollo de Software
 - **Carnet:** 20240230
 - **Sección y grupo:** 1B - Grupo 1
 
-## Enlaces
-
-- **Video demostrativo:** PENDIENTE
-- **Descarga del APK:** PENDIENTE
-
 ## Descripción
 
 Aplicación móvil desarrollada con React Native y Expo. Cuenta con dos pantallas:
