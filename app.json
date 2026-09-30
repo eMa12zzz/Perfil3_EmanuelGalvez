@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Perfil3 Emanuel",
+    "slug": "Perfil3_EmanuelGalvez",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.emanuelgalvez.perfil3",
+      "adaptiveIcon": {
+        "backgroundColor": "#252858",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#252858"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "4d4940c5-4d01-4b2c-903c-6250872094d9"
+      }
+    }
+  }
+}
